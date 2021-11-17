@@ -1,7 +1,7 @@
-![photo!](http://oleksii-nekrasov.s3-website-eu-west-1.amazonaws.com/photo.jpg "Photo")
+![photo!](./photo.jpg "Photo")
 
 # About me
-Hi! My name is Oleksii ([prononciation](http://oleksii-nekrasov.s3-website-eu-west-1.amazonaws.com/oleksii.m4a)). I'm a Ukrainian-born, Dutch software engineer.
+Hi! My name is Oleksii ([prononciation](./oleksii.m4a)). I'm a Ukrainian-born, Dutch software engineer.
 
 My expertise lies in system engineering, architecture and engineering management.
 
