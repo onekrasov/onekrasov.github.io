@@ -19,4 +19,6 @@ During my career I worked for Mendix, adidas, Playtika, a couple of agencies, an
 # Contacts
 For business contacts, please consider connecting with me on [LinkedIN](https://www.linkedin.com/in/nekgasov/)
 
-Email: [my first name] @ [my second name] + .nl
+Email: [my first name] @ [my second name] .nl
+
+KVK number: 84487046
