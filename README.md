@@ -1,4 +1,4 @@
-![photo!](./photo.jpg "Photo")
+![photo!](./myphoto.jpg "Photo")
 
 # About me
 Hi! My name is Oleksii ([prononciation](./oleksii.m4a)). I'm a Ukrainian-born, Dutch software engineer.
