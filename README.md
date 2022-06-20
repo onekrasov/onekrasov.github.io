@@ -3,18 +3,16 @@
 # About me
 Hi! My name is Oleksii ([prononciation](./oleksii.m4a)). I'm a Ukrainian-born, Dutch software engineer.
 
-My expertise lies in system engineering, architecture and engineering management.
-
-During my career I worked for Mendix, adidas, Playtika, a couple of agencies, and a few independent assignments in web development since 2005.
-
-[Here](https://docs.google.com/document/d/1RuBtL7zC8sYUCUrDFwRtMSBBG8Qx21v27SDtXDhzE-Q/view) you can find my latest resume.
+My mission is to help clients to develop sustainable infrastructure: Secure, Cost-efficient, Scalable, Sustainable (computition=>energy=>cost efficient) and Reliable. With low investment into support model by automating development process and utilizing serverless technology.
 
 # Expertise
-- Cloud infrastructure;
-- Data engineering: storage, streeming, multi-region replication;
-- Automation (CI/CD);
-- Site reliability;
-- System architecture.
+During my career I worked for Mendix, adidas, Playtika, a couple of agencies, and a few independent assignments in web development since 2005.
+
+# Services
+- AWS cloud infrastructure;
+- Site reliability, devOps, automation (CI/CD), infrastructure monitoring;
+- Back-end development (TDD, REST APIs), API test automation;
+- System architecture design, costs planning, team coaching.
 
 # Contacts
 For business contacts, please consider connecting with me on [LinkedIN](https://www.linkedin.com/in/nekgasov/)
