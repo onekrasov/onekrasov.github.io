@@ -1,12 +1,14 @@
 ![photo!](./profile_photo.jpg "Photo")
 
 # About me
-Hi! My name is Oleksii ([prononciation](./oleksii.m4a)). I'm a Ukrainian-born, Dutch software engineer.
+Hi! My name is Oleksii ([prononciation](./oleksii.m4a)) or simply - Alex (as most of people call me). I'm a Ukrainian-born, Dutch software engineer.
 
 My mission is to help clients to develop secure, cost-efficient, scalable, sustainable and reliable IT projects.
 
 # Expertise
 During my career I worked for Nike, Siemens, adidas, Playtika, a couple of agencies, and a few independent assignments in web development since 2005.
+
+Co-founded outdoor sports company in Ukraine and currently, together with my friend, building an online service for tennis players.
 
 # Services
 - Technical leadership: team hiring & coaching, system architecture, technical roadmap;
