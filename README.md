@@ -21,4 +21,5 @@ For business contacts, please consider connecting with me on [LinkedIN](https://
 Email: [first name] @ [last name] .nl
 
 KVK number: 84487046
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/20846910/activity-summary/47aee6086f1bd5e3ef2046f5a0406d49719dcbc8'></iframe>
+
+![Strava](https://www.strava.com/athletes/20846910/activity-summary/47aee6086f1bd5e3ef2046f5a0406d49719dcbc8)
