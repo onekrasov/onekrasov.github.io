@@ -22,4 +22,3 @@ Email: [first name] @ [last name] .nl
 
 KVK number: 84487046
 
-![Strava](https://www.strava.com/athletes/20846910/activity-summary/47aee6086f1bd5e3ef2046f5a0406d49719dcbc8)
