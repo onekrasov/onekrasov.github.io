@@ -1,40 +1,54 @@
-# Code Craft labs consulting services
-**High-Performance Software Engineering & Technical Strategy**
+# High-Availability Systems | Cloud Infrastructure | Technical Strategy
+
+Professional consultancy services for enterprise-scale IT environments. Specializing in bridging the gap between high-level architecture and hands-on DevOps execution.
 
 ---
 
-## Solutions & Services
-I provide specialized technical services to help organizations build secure, cost-efficient, and scalable infrastructure. My work is focused on delivering measurable technical outcomes and system reliability.
+## Core Service Offerings
 
-### 1. Technical Leadership & Strategy
-* **System Architecture:** Designing robust, future-proof software blueprints.
-* **Technical Roadmap Development:** Aligning technology stacks with long-term business goals.
-* **Team Scaling:** Advisory on technical hiring processes and engineering culture.
+### 🏗️ Technical Leadership & Strategy
+* **Organization Upscaling:** Guidance on technical roadmaps, career frameworks, and engineering culture (as delivered for *Mendix* and *Suitsupply*).
+* **Solution Architecture:** Designing resilient landscapes for high-traffic systems (A/B testing tools, data streaming, and REST APIs).
+* **Technical Hiring:** Expert interviewing and team composition strategy for software and DevOps roles.
 
-### 2. Site Reliability & Platform Engineering
-* **Cloud Infrastructure:** Expert configuration of AWS/Azure/GCP environments.
-* **DevOps & Automation:** Implementation of enterprise-grade CI/CD pipelines.
-* **Monitoring & Security:** Proactive system monitoring and infrastructure hardening.
+### ☁️ Infrastructure & Platform Engineering
+* **Cloud Native Ecosystems:** Expert-level implementation of Kubernetes (EKS/AKS), Helm, and Terraform.
+* **Modern DevOps:** Building enterprise CI/CD pipelines (GitHub Actions, GitLab, Jenkins) and automated deployment strategies.
+* **Site Reliability (SRE):** Managing "bare metal" and cloud-hybrid environments with a focus on observability and security (Vault, Puppet).
 
-### 3. Custom Backend Development
-* High-availability server-side engineering and API design.
-* Legacy system modernization and migration.
-
----
-
-## Professional Background
-Since 2005, I have delivered technical solutions for global industry leaders, including **Nike**, **Siemens**, and **Adidas**. 
-
-As a serial entrepreneur—having co-founded an outdoor sports venture and currently developing a specialized digital platform for the sports industry—I bring a unique "owner’s mindset" to every client engagement. I don't just write code; I build business value.
+### 📊 Data & Backend Engineering
+* **Data Streaming:** Implementing robust audit logging and real-time data solutions.
+* **Serverless & APIs:** Developing scalable backend services using AWS Lambda, Node.js, and Python.
 
 ---
 
-## Business Information
-I operate as an independent contractor under the following business credentials:
+## Strategic Project History (Selected)
 
-* **Chamber of Commerce (KVK):** 84487046
+I provide high-impact consultancy for global industry leaders. Recent and notable engagements include:
+
+* **Siemens (2025 – Present):** Technical Leadership focusing on AWS, Kubernetes, and Terraform infrastructure.
+* **Booking.com (2025 – Present):** Senior SRE engagement managing complex infrastructure via Terraform, Vault, and Puppet.
+* **Mendix (2021 – 2025):** Led Technical SRE and Data initiatives; architected highly available A/B testing platforms and data streaming solutions.
+* **Nike (2021 – 2025):** Long-term DevOps consultancy specializing in Kubernetes, Databricks, and cloud automation.
+* **Adidas (2017 – 2021):** Architected and built global-scale REST APIs and SRE automation for E-commerce.
+* **Shoparize (2024):** Orchestrated Kubernetes cluster upgrades and automated deployment workflows.
+
+*Prior experience includes leadership roles at Suitsupply, Playtika, and Astound Commerce (2011–2017).*
+
+---
+
+## Entrepreneurial Ventures
+Outside of consultancy, I actively build and scale digital products:
+* **Co-Founder:** Outdoor sports venture (Ukraine).
+* **Platform Lead:** Currently developing a specialized online platform for the tennis community.
+
+---
+
+## Business Credentials
+* **Entity:** Nekrasov IT Consulting
+* **KVK (Chamber of Commerce):** 84487046
 * **Email:** o@nekrasov.nl
-* **Professional Network:** [Connect on LinkedIn](https://www.linkedin.com/in/onekrasov)
+* **LinkedIn:** [View Professional Profile](https://www.linkedin.com/in/onekrasov)
 
 ---
-*Code Craft Labs is a registered independent entity. All assignments are performed on a project basis under the Model Agreement of Services (Overeenkomst van Opdracht).*
+*All services are provided on a project or assignment basis under the Dutch Wet DBA framework. General Terms & Conditions apply to all engagements.*
