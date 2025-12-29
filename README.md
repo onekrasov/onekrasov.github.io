@@ -1,6 +1,6 @@
 # Code Craft Labs
 
-**High-Availability Systems | Cloud Infrastructure | Technical Strategy**
+**High-Availability Systems / Cloud Infrastructure / Technical Strategy**
 
 Professional consultancy services for enterprise-scale IT environments. Specializing in bridging the gap between high-level architecture and hands-on DevOps execution.
 
