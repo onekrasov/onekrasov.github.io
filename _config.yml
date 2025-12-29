@@ -1,3 +1,31 @@
+title: Code Craft Labs IT consulting
+description: >-
+  Specialized Technical Leadership & DevOps Engineering. 
+  Helping organizations build secure, scalable, and cost-efficient cloud infrastructure.
+  
+# Cayman Theme Setup
 theme: jekyll-theme-cayman
-title: Code Craft Labs
-# description: Welcome to my personal information page
+
+# Business Identity & SEO
+url: "https://it-consulting.nekrasov.nl"
+author: Oleksii Nekrasov
+kvk_number: "84487046"
+email: alex@nekrasov.nl
+
+# Google Analytics (Optional - Cayman supports this natively)
+# google_analytics: [Your-UA-or-G-ID]
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# -----------------------
+# Cayman-Specific Button Customization
+# -----------------------
+# These will appear as the large buttons in the header
+# You can point them to your LinkedIn or a "Services" anchor
+show_downloads: false # Set to false to hide default "Download on GitHub" buttons
+
+# To add custom buttons in Cayman, you usually edit the index.md 
+# or the layout, but let's keep the config clean for now.
