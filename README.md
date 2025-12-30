@@ -48,6 +48,7 @@ Outside of consultancy, I actively build and scale digital products:
 
 ## Business Credentials
 * **Entity:** Code Craft Labs
+* **VAT number*** NL003397891B50
 * **KVK (Chamber of Commerce):** 84487046
 * **Email:** it-consulting@nekrasov.nl
 * **LinkedIn:** [View Professional Profile](https://www.linkedin.com/in/onekrasov)
