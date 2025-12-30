@@ -47,9 +47,9 @@ Outside of consultancy, I actively build and scale digital products:
 ---
 
 ## Business Credentials
-* **Entity:** Nekrasov IT Consulting
+* **Entity:** Code Craft Labs
 * **KVK (Chamber of Commerce):** 84487046
-* **Email:** o@nekrasov.nl
+* **Email:** it-consulting@nekrasov.nl
 * **LinkedIn:** [View Professional Profile](https://www.linkedin.com/in/onekrasov)
 
 ---
