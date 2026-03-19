@@ -1,6 +1,6 @@
 ---
 title: "Fuel Your Endurance: How to Make Your Own Natural Energy Gels"
-date: 2026-03-19 09:00:00 +0100
+date: 2026-03-19
 ---
 
 # Fuel Your Endurance: How to Make Your Own Natural Energy Gels
