@@ -42,26 +42,6 @@ I provide high-impact consultancy for global industry leaders. Recent and notabl
 
 *Prior experience includes leadership roles at Suitsupply, Playtika, and Astound Commerce (2011–2017).*
 
----
-
-## Blog
-
-Technical notes and project write-ups are published in the blog section.
-
-[Open all posts](/blog/)
-
-{% if site.posts.size > 0 %}
-### Latest posts
-
-{% for post in site.posts limit:3 %}
-* [{{ post.title | default: post.slug | replace: '-', ' ' | capitalize }}]({{ post.url }}) — {{ post.date | date: "%d %b %Y" }}
-{% endfor %}
-{% else %}
-No posts yet.
-{% endif %}
-
----
-
 ## Entrepreneurial Ventures
 Outside of consultancy, I actively build and scale digital products:
 * **Co-Founder:** Outdoor sports venture (Ukraine).
@@ -78,3 +58,21 @@ Outside of consultancy, I actively build and scale digital products:
 
 ---
 *All services are provided on a project or assignment basis under the Dutch Wet DBA framework. General Terms & Conditions apply to all engagements.*
+
+---
+
+## Blog
+
+Technical notes and project write-ups are published in the blog section.
+
+{% if site.posts.size > 0 %}
+### Latest posts
+
+{% for post in site.posts limit:3 %}
+* [{{ post.title | default: post.slug | replace: '-', ' ' | capitalize }}]({{ post.url }}) — {{ post.date | date: "%d %b %Y" }}
+{% endfor %}
+{% else %}
+No posts yet.
+{% endif %}
+
+---
