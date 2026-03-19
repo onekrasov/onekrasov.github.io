@@ -43,24 +43,21 @@ When you scale this over a full year of training and racing, the savings become 
 ## The Step-by-Step Process
 
 **Step 1:** Mix the Dry Ingredients
-(📸 Insert Photo: Shot of the dry powders—maltodextrin, fructose, salt, and optional thickener—being measured or combined in a bowl)
 Start by measuring out your carbohydrate powders and salt. Keeping the ratio right ensures smooth digestion on the go.
 
+For a 150 ml flask: 55 g maltodextrin, 45 g fructose, 1/4 teaspoon of salt, 60 ml of water, and a drizzle of lime juice.
+
 **Step 2:** Add the Wet Ingredients
-(📸 Insert Photo: Action shot of pouring water and fresh citrus juice into the dry mix)
 Squeeze in your fresh juice (lime or orange works brilliantly to cut the sweetness of the carbs) and add warm water. The warm water helps the powders dissolve much faster.
 
 **Step 3:** Stir It Up
-(📸 Insert Photo: Close-up of whisking or stirring the mixture until it turns into a smooth, gel-like syrup)
 Whisk everything together until the liquid is completely clear and no clumps remain. If you are using a thickener, this is where you'll see the texture start to change.
 
 **Step 4:** Pour into Flasks
-(📸 Insert Photo: Pouring the finished gel through a small funnel into a reusable silicone soft flask)
-Use a funnel to transfer your liquid gold into a reusable gel flask. A 150ml flask can easily hold enough fuel for a 3-hour run!
+Use a funnel to transfer your liquid gold into a reusable gel flask. A 150ml flask can easily hold enough fuel for a 2-hour run!
 
 **Step 5:** Store in the Fridge
-(📸 Insert Photo: The filled flasks resting in the fridge, ready for the next adventure)
-Because you are using real juice and no artificial preservatives, store your gels in the fridge until you are ready to hit the road or trail. They should keep well for several days.
+Because you are using real juice and no artificial preservatives, store your gels in the fridge until you are ready to hit the road or trail. They should keep well for several days. In my own experience - up to 6 days.
 
 ## Where to buy
 
