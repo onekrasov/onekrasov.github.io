@@ -12,8 +12,8 @@ author: Oleksii Nekrasov
 kvk_number: "84487046"
 email: alex@nekrasov.nl
 
-# Google Analytics (Optional - Cayman supports this natively)
-# google_analytics: [Your-UA-or-G-ID]
+# Google Analytics (GA4)
+google_analytics: G-VZ4FYDVWFV
 
 # Plugins (GitHub Pages supported)
 plugins:
