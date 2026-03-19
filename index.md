@@ -54,7 +54,7 @@ Technical notes and project write-ups are published in the blog section.
 ### Latest posts
 
 {% for post in site.posts limit:3 %}
-* [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%d %b %Y" }}
+* [{{ post.title | default: post.slug | replace: '-', ' ' | capitalize }}]({{ post.url }}) — {{ post.date | date: "%d %b %Y" }}
 {% endfor %}
 {% else %}
 No posts yet.

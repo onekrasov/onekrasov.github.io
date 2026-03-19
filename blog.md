@@ -8,7 +8,7 @@ permalink: /blog/
 
 {% if site.posts.size > 0 %}
 {% for post in site.posts %}
-## [{{ post.title }}]({{ post.url }})
+## [{{ post.title | default: post.slug | replace: '-', ' ' | capitalize }}]({{ post.url }})
 
 *{{ post.date | date: "%d %b %Y" }}*
 

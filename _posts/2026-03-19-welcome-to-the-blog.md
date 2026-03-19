@@ -1,5 +1,5 @@
 ---
-title: Fuel Your Endurance: How to Make Your Own Natural Energy Gels
+title: "Fuel Your Endurance: How to Make Your Own Natural Energy Gels"
 date: 2026-03-19 09:00:00 +0100
 ---
 
@@ -27,9 +27,9 @@ If you are on the fence about mixing your own sports nutrition, here is why maki
 
 | Option | Typical carbs per serving | Sodium per serving | Per serving (EUR) | Packaging waste | Cost for ~90g carbs (race hour) |
 |---|---:|---:|---:|---|---:|
-| SiS GO Isotonic Gel (60 ml) | ~22g | ~10–30mg | ~1.50–2.20 | Single-use sachet | ~6.10–9.00 |
-| Maurten Gel 100 (40 g) | 25g | ~35mg | ~3.20–4.00 | Single-use sachet | ~11.50–14.40 |
-| DIY (maltodextrin + fructose + salt + juice) | ~25–30g (you choose) | 100–300mg (you choose) | ~0.20–0.45 | Reusable flask | ~0.60–1.60 |
+| SiS GO Isotonic Gel (60 ml) | ~22g | ~10–30mg | ~1–1.5 | Single-use sachet | ~4.10–6.15 |
+| Maurten Gel 100 (40 g) | 25g | ~35mg | ~3–3.50 | Single-use sachet | ~10.80–12.60 |
+| DIY (maltodextrin + fructose + salt + juice) | ~25–30g (you choose) | 100–300mg (you choose) | ~0.20–0.45 | Reusable flask | ~0.60–1.62 |
 
 When you scale this over a full year of training and racing, the savings become substantial.
 
