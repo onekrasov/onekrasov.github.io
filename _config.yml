@@ -20,6 +20,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Blog URL structure
+permalink: /blog/:year/:month/:day/:title/
+
+# Ensure posts use the Cayman default layout
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: default
+
 # -----------------------
 # Cayman-Specific Button Customization
 # -----------------------
