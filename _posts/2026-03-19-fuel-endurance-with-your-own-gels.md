@@ -21,7 +21,7 @@ During endurance activities, your body relies on glycogen (stored carbohydrates)
 ## What are the benefits of making your own gel?
 If you are on the fence about mixing your own sports nutrition, here is why making the switch can be a game-changer:
 
-🌍 Zero Plastic Waste: Think about how many sticky, torn gel packets end up on trails or in landfills. By putting your homemade gel into a reusable soft flask, you completely eliminate single-use plastics from your fueling strategy.
+🌍 A Massive Cut in Plastic Waste: We've all dealt with the sticky mess of torn gel wrappers in our pockets. Switching to a reusable soft flask doesn't just save your gear; it drastically shrinks your environmental footprint. Instead of tossing thousands of unrecyclable foil packets every year, you are left with just a handful of recyclable bulk ingredient bags.
 
 💰 Massive Cost Savings: Commercial gels typically cost anywhere from 1 to 3 EUR each. Buying bulk maltodextrin and fructose can drop the cost to pennies per serving. To put this into perspective, let’s compare common SiS and Maurten gels with a DIY option:
 
