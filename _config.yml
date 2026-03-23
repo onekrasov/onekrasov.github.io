@@ -13,7 +13,8 @@ kvk_number: "84487046"
 email: alex@nekrasov.nl
 
 # Google Analytics (GA4)
-google_analytics: G-VZ4FYDVWFV
+# Using the explicit GA4 snippet in _includes/head-custom-google-analytics.html
+# google_analytics: G-VZ4FYDVWFV
 
 # Plugins (GitHub Pages supported)
 plugins:
