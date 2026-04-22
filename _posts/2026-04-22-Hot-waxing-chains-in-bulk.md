@@ -13,12 +13,14 @@ I used Wasbenzine (cleaning solvent) to strip the chains.
 
 There are few options in AH here, in the Netherlands, I used the red bottle.
 
-![Bottles of Wasbenzine and White Spirit](waxing/1.jpeg)
+<img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/waxing/1.jpeg?raw=true" width="500" title="Bottles of Wasbenzine and White Spirit" />
+
 Getting the right chemicals for the job.
 
 I put all three chains into a large glass jar, poured in the Wasbenzine, and gave it a good shake. I let it sit for 2 hours for the first round.
 
-![Chains soaking in a glass jar](waxing/2.jpeg)
+<img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/waxing/2.jpeg?raw=true" width="500" title="Chains soaking in a glass jar" />
+
 Look at how cloudy that liquid gets! That's all the sticky factory grease coming off.
 
 After the first soak, I poured out the dirty liquid and did a second round in fresh Wasbenzine for 30 minutes.
@@ -28,10 +30,12 @@ Finally, to make absolutely sure there was no oily film left behind, I gave them
 ## Step 2: Drying Time
 Once the chains were completely stripped of grease and rinsed with alcohol, I took them out and laid them in a plastic tray to dry.
 
-![Clean chains in a plastic tray](waxing/3.jpeg)
+<img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/waxing/3.jpeg?raw=true" width="500" title="Clean chains in a plastic tray" />
+
 They might look the same, but to the touch, these are completely dry and oil-free. They even sound a bit different - have a very "metallic" feel.
 
-![Close up of dry chains](waxing/4.jpeg)
+<img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/waxing/4.jpeg?raw=true" width="500" title="Close up of dry chains" />
+
 Ready for the hot wax spa!
 
 ## Step 3: The Hot Wax Spa
@@ -41,10 +45,11 @@ The heat helps the metal expand just a tiny bit, allowing the liquid wax to get 
 
 After they soaked in the hot wax for a bit, I pulled them out using a wire hanger on a stand so the extra wax could drip off back into the pot.
 
-![Chains hanging over the wax pot](waxing/5.jpeg)
+<img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/waxing/5.jpeg?raw=true" width="500" title="Chains hanging over the wax pot" />
+
 Hanging up to cool down. The liquid wax turns solid as it drops to room temperature.
 
-![Close up of waxed chains hanging](waxing/6.jpeg)
+<img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/waxing/6.jpeg?raw=true" width="500" title="Close up of waxed chains hanging" />
 
 ## The Result
 Once the chains cool completely, the wax becomes hard. When you put it on your bike, it flakes off a little bit for the first few minutes of riding, but then it settles in.
