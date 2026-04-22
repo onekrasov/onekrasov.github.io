@@ -52,8 +52,10 @@ Hanging up to cool down. The liquid wax turns solid as it drops to room temperat
 <img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/waxing/6.jpeg?raw=true" width="500" title="Close up of waxed chains hanging" />
 
 ## The Result
-Once the chains cool completely, the wax becomes hard. When you put it on your bike, it flakes off a little bit for the first few minutes of riding, but then it settles in.
+Once the chains cool completely, the wax hardens. The chain will be incredibly stiff, so you need to "break" the wax bonds by flexing each link by hand. This restores the chain's articulation for smooth shifting and prevents excess wax from building up on your cassette and derailleur pulleys.
 
-Because the wax is dry, dirt and sand don't stick to it. Your drivetrain stays shiny, your gears shift smoothly, and best of all—you can grab your bike chain with your bare hands and they will stay completely clean!
+During the first few minutes of your first ride, the chain will go through a "run-in" period where residual surface wax flakes off, leaving only the essential lubricating wax inside the rollers and pins.
 
-Doing three chains at once took a little bit of prep, but now I have months of perfectly smooth riding ahead of me before I ever have to turn on the wax pot again.
+Because wax acts as a solid dry lubricant, abrasive particles like dirt and sand simply bounce off. Your drivetrain stays spotless, your efficiency goes up, and best of all—you can handle the chain with bare hands without getting a drop of grease on them!
+
+Prepping three chains in a single batch took a little extra effort upfront, but it guarantees at least a few weeks of perfectly smooth, low-friction riding (in dry conditions) before I need to plug in the wax pot again.
