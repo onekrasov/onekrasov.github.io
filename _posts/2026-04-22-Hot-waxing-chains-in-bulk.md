@@ -6,6 +6,11 @@ The solution? Hot chain waxing. It sounds like a lot of work, but I recently fig
 
 Here is how I do it, step-by-step.
 
+## Longevity and Conditions
+Keep in mind that while hot melt wax is the ultimate dry-weather lubricant, it is less ideal for sustained riding in the rain. Water easily displaces the wax, stripping the chain of its protection and leaving it vulnerable to surface rust if not dried immediately after a ride.
+
+In standard dry conditions, a hot wax application combined with periodic (every 300km) top-ups of a wax emulsion (like Silca Super Secret Chain Lube) extends your maintenance window significantly. You can generally ride for about 1000km before the chain needs to be removed for another full deep-clean and hot wax bath.
+
 ## Step 1: Stripping the Factory Grease
 New chains come coated in a sticky factory grease. This grease is great for sitting on a store shelf, but terrible for riding because it attracts dirt like a magnet. To get the wax to stick to the metal, the chain needs to be 100% bare and clean.
 
