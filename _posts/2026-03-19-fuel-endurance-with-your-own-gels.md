@@ -42,6 +42,8 @@ When you scale this over a full year of training and racing, the savings become 
 
 ## The Step-by-Step Process
 
+<img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/fuel/1.jpeg?raw=true" width="500" title="Ingredients" />
+
 **Step 1:** Mix the Dry Ingredients
 Start by measuring out your carbohydrate powders and salt. Keeping the ratio right ensures smooth digestion on the go.
 
@@ -55,6 +57,8 @@ Whisk everything together until the liquid is completely clear and no clumps rem
 
 **Step 4:** Pour into Flasks
 Use a funnel to transfer your liquid gold into a reusable gel flask. A 150ml flask can easily hold enough fuel for a 2-hour run!
+
+<img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/fuel/2.jpeg?raw=true" width="500" title="Flask" />
 
 **Step 5:** Store in the Fridge
 Because you are using real juice and no artificial preservatives, store your gels in the fridge until you are ready to hit the road or trail. They should keep well for several days. In my own experience - up to 6 days.
