@@ -16,6 +16,12 @@ New chains come coated in a sticky factory grease. This grease is great for sitt
 
 I used Wasbenzine (cleaning solvent) to strip the chains.
 
+⚠️ Important Safety & Disposal Warnings
+Before using Wasbenzine to strip your chains, please keep these critical safety rules in mind:
+
+- Ventilation is crucial: Wasbenzine fumes are highly toxic. Never use this solvent indoors. Always work outside in a well-ventilated area and take care to avoid inhaling the vapors.
+- Dispose of responsibly: Do not pour used Wasbenzine down the sink, drain, or into the soil. It is extremely toxic to the environment. Pour the dirty solvent back into a sealable container and dispose of it at your local hazardous waste facility (Klein Chemisch Afval / KCA) according to your local regulations.
+
 There are few options in AH here, in the Netherlands, I used the red bottle.
 
 <img src="https://raw.githubusercontent.com/onekrasov/onekrasov.github.io/refs/heads/main/_posts/waxing/1.jpeg?raw=true" width="500" title="Bottles of Wasbenzine and White Spirit" />
