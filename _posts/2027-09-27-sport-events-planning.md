@@ -1,4 +1,11 @@
+---
+title: "Events planning"
+date: 2026-09-27
+---
+
 # Events planning
+
+updated: 27 September 2026
 
 ```mermaid
 gantt
