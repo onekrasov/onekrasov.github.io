@@ -36,7 +36,7 @@ gantt
     section Trail
     Prepare: after m312r, 15-07-27
     Event Veluwezoom Trail (~15 July): vz, 15-07-27, 1d
-    Recovery: after vz, 10d
+    Recovery: after vz, 25-07-27
     
     section Hiking/family
     Expedition (~25 July): e1, 25-07-27, 10d
