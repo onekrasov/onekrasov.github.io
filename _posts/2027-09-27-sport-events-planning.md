@@ -5,7 +5,7 @@ date: 2026-09-27
 
 # Events planning
 
-updated: 27 September 2026
+updated: 28 September 2026
 
 ```mermaid
 gantt
@@ -27,16 +27,16 @@ gantt
     section Cycling
     Prepare: b1, 01-01-27, 115d
     Mallorca 312 (27 April): m312, 27-04-27, 1d
-    Recover: m312r, after m312, 10d
+    Recover: m312r, after m312, 20d
     section Trail
-    Prepare: after m312r, 50d
-    Event Veluwezoom Trail (tbd): vz, 15-07-27, 1d
+    Prepare: after m312r, 55d
+    Event Veluwezoom Trail (~15 July): vz, 15-07-27, 1d
     Recover: after vz, 10d
     section Hiking/family
-    Expedition (20 July): e1, 25-07-27, 10d
-    Recovery: r2, after e1, 20d
+    Expedition (~25 July): e1, 25-07-27, 10d
+    Recovery: r2, after e1, 10d
     section Running
-    Prepare: after r2, 25d
-    Jungfrau marathon (17 September): jm, 27-09-27, 1d
+    Prepare: after r2, 33d
+    Jungfrau marathon (~17 September): jm, 17-09-27, 1d
     Recovery: after jm, 10d
 ```
