@@ -29,14 +29,14 @@ gantt
     Mallorca 312 (27 April): m312, 27-04-27, 1d
     Recover: m312r, after m312, 10d
     section Trail
-    Prepare: after m312r, 30d
-    Event X (tbd): ex, 15-06-27, 1d
-    Recover: after ex, 10d
+    Prepare: after m312r, 50d
+    Event Veluwezoom Trail (tbd): vz, 15-07-27, 1d
+    Recover: after vz, 10d
     section Hiking/family
-    Expedition (20 July): e1, 20-07-27, 10d
+    Expedition (20 July): e1, 25-07-27, 10d
     Recovery: r2, after e1, 20d
     section Running
-    Prepare: after r2, 35d
+    Prepare: after r2, 25d
     Jungfrau marathon (17 September): jm, 27-09-27, 1d
     Recovery: after jm, 10d
 ```
